@@ -31,16 +31,16 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "主页",
 	},
 	{
-		path: "/about/",
-		title: "关于",
-	},
-	{
 		path: "/posts/",
 		title: "博客",
 	},
 	{
 		path: "/notes/",
 		title: "笔记",
+	},
+  	{
+		path: "/about/",
+		title: "关于",
 	},
 ];
 
