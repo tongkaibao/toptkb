@@ -2,8 +2,8 @@ backend:
   name: github
   branch: main # change this to your branch
   repo: tongkaibao/toptkb # 1、change this to your repo
-  site_domain: blog.tongkaibao.top # 2、change this to your domain
-  base_url: https://blog.tongkaibao.top # 3、change this to your prod URL
+  site_domain: hello.tongkaibao.top # 2、change this to your domain
+  base_url: https://hello.tongkaibao.top # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
 collections:
